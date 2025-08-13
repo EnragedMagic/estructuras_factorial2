@@ -63,5 +63,5 @@ Necesitas:
 sudo apt update
 sudo apt install build-essential gnuplot
 
-## Hecho por Johan Steven Galeano Gonzalez GO2
+## Hecho por Johan Steven Galeano Gonzalez G02
 
